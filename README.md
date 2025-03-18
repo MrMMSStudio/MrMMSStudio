@@ -12,10 +12,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# MMS Studio
+
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)-->
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+
+
+<img src="https://avatars.githubusercontent.com/u/159762504?s=400&u=a0c49c40e09f601856b7b79afdfb8f3d9eca6fd7&v=4" width="150" height="150" style="border-radius: 50%; margin: 10px 20px" align="left" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=MrMMSStudio&label=Profile%20views&color=0e75b6&style=plastic" alt="MrMMSStudio" />
+</p>
+
+### [MMS Studio](https://github.com/MrMMSStudio)
 
 Welcome to the official GitHub profile of **MMS Studio**. This is where we securely store our private repositories for client projects, as well as host a selection of open-source projects for the community.
+
+---
 
 ## About MMS Studio
 
